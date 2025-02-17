@@ -14,7 +14,7 @@ import react from '@vitejs/plugin-react';
     },
   },
   build: {
-      outDir: 'build',
+      outDir: 'dist',
           sourcemap: true,
   },
   css : {
